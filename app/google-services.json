@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405836388563",
+    "project_id": "my-new-android-app-22099",
+    "storage_bucket": "my-new-android-app-22099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405836388563:android:6e387b242b3fe0ff38dc26",
+        "android_client_info": {
+          "package_name": "com.example.doctorsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405836388563-68c7hv4q0b439svt0be20s95djegbhke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxx1t5heMwU_T65E1w-z3wqxFbFIxAII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405836388563-68c7hv4q0b439svt0be20s95djegbhke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
